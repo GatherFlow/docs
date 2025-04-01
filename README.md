@@ -5,4 +5,4 @@
 
 - [1. Workflow](https://github.com/Project-Workshop-Team-2/docs/blob/main/docs/1-workflow.md)
 - [2. Commit rules](https://github.com/Project-Workshop-Team-2/docs/blob/main/docs/2-commit-rules.md)
-- [3. Development](https://github.com/Project-Workshop-Team-2/docs/blob/main/docs/3-prepare-your-environment.md)
+- [3. Prepare your environment](https://github.com/Project-Workshop-Team-2/docs/blob/main/docs/3-prepare-your-environment.md)
