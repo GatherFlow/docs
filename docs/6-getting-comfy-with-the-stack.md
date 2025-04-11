@@ -1,12 +1,20 @@
-# Mobile Development
+# Getting Comfy with the Stack
 
-## Introduction
+## TypeScript
 
-## Setting up development environment
+To get more familiar with TypeScript read this [series of articles](https://www.totaltypescript.com/books/total-typescript-essentials) by Matt Pocock. After reading at least first eight, working with TS will become a piece of cake for you.
 
-You can learn how set up a local development environment for running the app in [Expo's official docs](https://docs.expo.dev/get-started/set-up-your-environment/?platform=android&device=physical&mode=expo-go)
+## React
 
-## Styling
+I highly recommend to read at least [Quick Start](https://react.dev/learn) and [React with Typescript](https://react.dev/learn/typescript) articles from React official docs to feel yourself more comfortable during the development process.
+
+## Expo
+
+[Expo Tutorial](https://docs.expo.dev/tutorial/overview/) is written pretty good and beginner-friendly, I guess it would be nice from your side to read it too.
+
+After reading, you will feel yourself more comfortable with this technology, so working on the project would be less painful as could have been.
+
+## Styling with Tailwind
 
 For styling we in GatherFlow use mainly [Tailwind](https://v3.tailwindcss.com/) with some utilities like [cva](https://cva.style), etc. If you are not familiar with `tailwind` or `cva`, check [tailwind's](https://v3.tailwindcss.com/) or [cva's](https://cva.style/docs) docs.
 

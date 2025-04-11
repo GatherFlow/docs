@@ -1,4 +1,4 @@
-# Prepare your environment
+# Prepare Your Environment
 
 ## Installing Node.js
 
@@ -34,4 +34,27 @@ To install it run the following command:
 corepack enable pnpm
 ```
 
+## Setting up development environment
 
+You can learn how set up a local development environment for running the app in [Expo's official docs](https://docs.expo.dev/get-started/set-up-your-environment/?platform=android&device=physical&mode=expo-go)
+
+## Cloning a repo
+
+For clonning repo just execute the following command:
+
+```sh
+git clone https://github.com/GatherFlow/client
+```
+
+## Installing dependencies
+
+```sh
+pnpm i
+```
+
+## Running the project
+
+
+```sh
+node --run dev
+```

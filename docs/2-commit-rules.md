@@ -1,4 +1,4 @@
-# Commit rules
+# Commit Rules
 
 Record the changes made by making changes in accordence with [Convential Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
