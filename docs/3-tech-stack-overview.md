@@ -28,7 +28,7 @@ It was picked, as it enables a highly customizable and responsive design system 
 
 ## Tanstack Form
 
-Since in modern frontend handling forms is kind of sophisticated and overwhelming thing, to provide better DX while working with them Tanstack Form was picked. It's a lightweight and flexible library for handling forms in React and React Native. It provides a set of hooks and utilities to build forms efficiently.
+Since in modern frontend handling forms is kind of sophisticated and overwhelming thing, to provide better DX (Developer Experience) while working with them Tanstack Form was picked. It's a lightweight and flexible library for handling forms in React and React Native. It provides a set of hooks and utilities to build forms efficiently.
 
 It simplifies the process of managing form state, validation, and submission, improving performance and usability.
 
